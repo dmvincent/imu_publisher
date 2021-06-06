@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="imu_publisher" type="imu_publisher_node" name="imu_publisher_node_name" output="screen">
+	</node>
+</launch>
